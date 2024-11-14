@@ -1,0 +1,9 @@
+Package: massimstat
+Type: Package
+Title: Um Pacote para Cálculo de Estatísticas
+Version: 0.1.0
+Author: Jayme Massim
+Maintainer: Seu Nome <seuemail@example.com>
+Description: Um pacote para calcular estatísticas básicas.
+License: MIT
+RoxygenNote: 7.3.2
